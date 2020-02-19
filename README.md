@@ -1,0 +1,1 @@
+# pricecheck-privace-policy
