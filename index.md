@@ -1,63 +1,72 @@
-## Privacy Policy
+## Политика конфиденциальности
 
-myknowledge built the ЕГЭ Хак Физика app as a Freemium app. This SERVICE is provided by myknowledge at no cost and is intended for use as is.
+Политика конфиденциальности персональной информации (далее — «Политика») действует в отношении всей информации, которую разработчик myknowledge(далее - "Разработчик") может получить от физического лица (далее — «Пользователя») во время использования им Сервиса.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Сервис — мобильное приложение «СравниЦену».
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Использование Сервиса означает безоговорочное согласие Пользователя с настоящей Политикой и указанными в ней условиями обработки его персональной информации. В случае несогласия с этими условиями Пользователь должен воздержаться от использования Сервиса.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at ЕГЭ Хак Физика unless otherwise defined in this Privacy Policy.
+**1. Персональная информация Пользователей, которую обрабатывает Разработчик**
+1.1. В рамках настоящей Политики под «персональной информацией Пользователя» понимаются:
+1.1.1. Персональная информация, которую Пользователь предоставляет о себе самостоятельно при создании или в процессе использования Сервиса (в том числе сведения о кассовых чеках). 
+1.1.2. Данные, которые автоматически передаются Сервису в процессе его использования с помощью установленного на устройстве Пользователя программного обеспечения, в том числе IP-адрес, данные файлов cookie, информация о браузере Пользователя (или иной программе, с помощью которой осуществляется доступ к Сервису), технические характеристики оборудования и программного обеспечения, используемых Пользователем, дата и время доступа к Сервису и иная подобная информация.
+1.1.3. Иная информация о Пользователе, обработка которой предусмотрена условиями использования Сервиса.
 
-**Information Collection and Use**
+1.2. Настоящая Политика применима только к информации, обрабатываемой в ходе использования Сервиса. Разработчик не контролирует и не несет ответственность за обработку информации сайтами третьих лиц, на которые Пользователь может перейти по ссылкам, доступным на Сервисе.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+1.3. Разработчик не проверяет достоверность персональной информации, предоставляемой Пользователем, и не имеет возможности оценивать его дееспособность. Однако Разработчик исходит из того, что Пользователь предоставляет достоверную и достаточную персональную информацию и поддерживает эту информацию в актуальном состоянии.
 
-The app does use third party services that may collect information used to identify you.
+**2. Цели обработки персональной информации Пользователей**
+2.1. Разработчик собирает и хранит только ту персональную информацию, которая необходима для предоставления функциональности Сервиса, за исключением случаев, когда законодательством предусмотрено обязательное хранение персональной информации в течение определенного законом срока.
 
-Link to privacy policy of third party service providers used by the app
+2.2. Персональную информацию Пользователя Разработчик обрабатывает в следующих целях:
+2.2.1. Связь с Пользователем, в том числе направление уведомлений;
+2.2.2. Улучшение качества Сервиса, удобства их использования, разработка нового функционала Сервиса;
+2.2.3. для участия Пользователя в различных стимулирующих мероприятиях Сервиса/партнёров Сервиса;
+2.2.4. Проведение статистических и иных исследований на основе обезличенных данных.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Firebase Analytics](https://firebase.google.com/policies/analytics)
+**3. Условия обработки персональной информации Пользователей и её передачи третьим лицам**
 
-**Log Data**
+3.1. Разработчик хранит персональную информацию Пользователей в соответствии с внутренними регламентами Сервиса.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+3.2. В отношении персональной информации Пользователя сохраняется ее конфиденциальность, кроме случаев добровольного предоставления Пользователем информации о себе для общего доступа неограниченному кругу лиц. Используя Сервис, Пользователь соглашается с тем, что определённая часть его персональной информации может становится общедоступной.
 
-**Cookies**
+3.3. Разработчик вправе передать персональную информацию Пользователя третьим лицам в следующих случаях:
+3.3.1. Пользователь выразил согласие на такие действия, в том числе путем установки галочки в настройках Сервиса;
+3.3.2. Передача предусмотрена российским или иным применимым законодательством в рамках установленной законодательством процедуры;
+3.3.3. Такая передача происходит в рамках продажи или иной передачи бизнеса (полностью или в части), при этом к приобретателю переходят все обязательства по соблюдению условий настоящей Политики применительно к полученной им персональной информации;
+3.3.4. В целях обеспечения возможности защиты прав и законных интересов Разработчика или третьих лиц в случаях, когда Пользователь нарушает Пользовательское соглашение сервиса «СравниЦену», настоящую Политику, либо документы, содержащие условия использования Сервиса, либо существует угроза такого нарушения.
+3.3.5. В результате обработки персональной информации Пользователя путем ее обезличивания получены обезличенные статистические данные, которые передаются третьему лицу для проведения исследований, выполнения работ или оказания услуг по заданию Разработчика.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+3.4. При обработке персональных данных Пользователей Разработчик руководствуется Федеральным законом РФ «О персональных данных».
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-**Service Providers**
+4. Изменение и удаление персональной информации. Обязательное хранение данных
 
-I may employ third-party companies and individuals due to the following reasons:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+4.1. Пользователь может потребовать прекратить обработку его персональной информации в Сервисе путем направления соответствующего сообщения с указанием наименования учетной записи по адресу, указанному в п. 8 Политики.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+4.2. Персональная информация о Пользователе обрабатывается Разработчиком на протяжении всего срока использования Пользователем Сервиса и/или действия соглашений и договоров с Пользователем с учетом требований, предусмотренных законодательством РФ.
 
-**Security**
+5. Обработка персональной информации при помощи файлов Cookie и счетчиков
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+5.1. Файлы cookie, передаваемые Разработчиком оборудованию Пользователя и оборудованием Пользователя Разработчику, могут использоваться Разработчиком для персонализации предоставления Пользователю информации в Сервисе, в статистических и исследовательских целях, а также для улучшения Сервиса.
 
-**Links to Other Sites**
+5.2. Структура файла cookie, его содержание и технические параметры определяются Разработчиком и могут изменяться без предварительного уведомления Пользователя.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+5.3. Счетчики, размещенные Разработчиком в Сервисе, могут использоваться для анализа файлов cookie Пользователя, для сбора и обработки статистической информации об использовании Сервиса, а также для обеспечения работоспособности Сервиса в целом или их отдельных функций в частности. Технические параметры работы счетчиков определяются Разработчиком и могут изменяться без предварительного уведомления Пользователя.
 
-**Children’s Privacy**
+6. Меры, применяемые для защиты персональной информации Пользователя
 
-These Services do not address anyone under the age of 13\. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+6.1. Разработчик принимает необходимые и достаточные организационные и технические меры для защиты персональной информации Пользователя от неправомерного или случайного доступа, уничтожения, изменения, блокирования, копирования, распространения, а также от иных неправомерных действий с ней третьих лиц.
 
-**Changes to This Privacy Policy**
+7. Изменение Политики конфиденциальности. Применимое законодательство
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+7.1. Разработчик имеет право вносить изменения в настоящую Политику конфиденциальности. Новая редакция Политики вступает в силу с момента ее размещения, если иное не предусмотрено новой редакцией Политики. Действующая редакция постоянно доступна на странице по адресу https://strangerxx.github.io/pricecheck-privace-policy/.
 
-**Contact Us**
+7.2. К настоящей Политике и отношениям между Пользователем и Разработчиком, возникающим в связи с применением Политики конфиденциальности, подлежит применению право Российской Федерации.
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+8. Обратная связь. Вопросы и предложения
+
+8.1. Все запросы и уведомления о персональной информации и Политике, предусмотренные Федеральным законом «О персональных данных», Пользователь вправе направлять по электронной почте artur.davletov.m@gmail.com.
